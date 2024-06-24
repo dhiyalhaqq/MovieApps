@@ -1,0 +1,58 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/images/bg/gambar\ 1.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.nowplaying {
+    height: auto;
+    background: url("../assets/images/bg/gambar\ 2.jpg");
+    background-size: cover;
+  }
+
+.popular {
+    height: auto;
+    background: url("../assets/images/bg/gambar\ 3.jpg");
+    background-size: cover;
+}
+
+.toprated {
+    height: auto;
+    background: url("../assets/images/bg/gambar\ 4.jpg");
+    background-size: cover;
+}
+
+.upcoming {
+    height: auto;
+    background: url("../assets/images/bg/gambar\ 5.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+   height: auto;
+   background-color: black;
+   margin: 5px;
+   padding: 5px;
+}
+  
+.images {
+    height: 500px;
+}
